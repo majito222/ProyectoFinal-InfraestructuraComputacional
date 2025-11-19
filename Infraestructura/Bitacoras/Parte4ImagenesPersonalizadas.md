@@ -6,7 +6,7 @@ Antes de iniciar la creación de las imágenes Docker personalizadas, fue necesa
 
 **EVIDENCIAS:**
 - *Figura 17.* Inicialmente se hace la instalacion de docker  – `Dockerinstalacion.jpg`
-![Herramientas](../Evidencias/Parte4ImagenesPersonalizadas/Dockerinstalacion.jpg)
+![Herramientas](../Evidencias/Parte4ImagenesPersonalizadas/DockerInstalacion.jpg)
 
 - *Figura 18.* Se hace la instalacion de las dependencias necesarias  – `dependencias.jpg`
 ![Herramientas](../Evidencias/Parte4ImagenesPersonalizadas/dependencias.jpg)
@@ -85,4 +85,5 @@ La personalización de la imagen de Nginx permite adaptar el servidor web a las 
 ![ngnix](../Evidencias/Parte4ImagenesPersonalizadas/ConstruccionNgnix.jpg)
 
 - *Figura 36.* Se verifica su creacion  – `VerificacionNgnix.jpg`
+
 ![ngnix](../Evidencias/Parte4ImagenesPersonalizadas/VerificacionNgnix.jpg)
